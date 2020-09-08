@@ -46,6 +46,7 @@ $(document).ready(function() {
         1000:{
             items:5,
             nav:true,
+            dots: false,
             loop:false
         }
     }
